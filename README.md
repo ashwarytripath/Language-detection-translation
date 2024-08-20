@@ -1,4 +1,5 @@
 Language Detection and Translation Application
+
 This is a Flask-based web application that detects the language of a given text and translates it into a target language of your choice. It uses langdetect for language detection and googletrans for translation.
 
 Features
